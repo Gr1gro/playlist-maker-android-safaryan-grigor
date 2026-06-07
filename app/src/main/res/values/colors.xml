@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ys_primary">#3772E7</color>
+    <color name="ys_black">#1A1B22</color>
+    <color name="ys_gray">#AEAFB4</color>
+    <color name="ys_light_gray">#E6E8EB</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
