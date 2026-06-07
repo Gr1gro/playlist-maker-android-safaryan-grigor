@@ -34,7 +34,7 @@
     <string name="share_playlist_message">Плейлист «%1$s» в Playlist Maker</string>
 
     <!-- Укажите свой email для задания «Написать разработчикам» -->
-    <string name="developer_email">mister.sabutay@mail.ru</string>
+    <string name="developer_email">safaryangrigor6564@mail.ru.ru</string>
     <string name="developer_email_subject">Сообщение разработчикам и разработчицам приложения Playlist Maker</string>
     <string name="developer_email_body">Спасибо разработчикам и разработчицам за крутое приложение!</string>
     <string name="user_agreement_url">https://yandex.ru/legal/praktikum_offer/</string>
